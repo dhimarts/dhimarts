@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhiogo-martins-783526383/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhmartsilva@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiogo-martins-783526383/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhmartsilva@gmail.com) 
 <a href="https://drive.google.com/file/d/1ydTUFzYcWOucfrV9iUaIc3W9UXctUjdM/view?usp=sharing">
   <img src="https://img.shields.io/badge/Currículo-Visualizar_PDF-black?style=for-the-badge&logo=googledrive&logoColor=white" alt="Acessar Currículo">
 </a>
